@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-<img src="https://www.kreaweb.be/wp-content/uploads/2021/03/laragon.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="LARAGON, an easy and yet powerful Local Web Development Server | KREAWEB" data-noaft="1" style="width: 465px; height: 348.75px; margin: 0px;">
+<img src="https://www.kreaweb.be/wp-content/uploads/2021/03/laragon.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="LARAGON, an easy and yet powerful Local Web Development Server | KREAWEB" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;">
 <img align="left" height="32" width="32" src="https://camo.githubusercontent.com/e1a0140c86a2e3777df78d24251f7c52bafe6779f988ea3cc213b54c502e2b63/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f78616d70702e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" style="max-width: 100%;">
 <h3 align="left">Libraries and Frameworks:</h3>
 <h3 align="left">Databases:</h3>
