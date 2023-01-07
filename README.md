@@ -1,7 +1,5 @@
 <h1 align="center">Hi fellows 👋 ...</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phucnguyen228&label=Profile%20views&color=0e75b6&style=flat" alt="phucnguyen228" /> </p>
-
 - 💬 Ask me about every thing
 
 - 📫 How to reach me <a href="https://www.facebook.com/nguyenphuc.22821" rel="nofollow">Facebook</a>
@@ -17,25 +15,22 @@
 <p align="left">
 </p>
 
-<h3 align="left">Tools:</h3>
-<img src="https://www.kreaweb.be/wp-content/uploads/2021/03/laragon.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="LARAGON, an easy and yet powerful Local Web Development Server | KREAWEB" data-noaft="1" style="width: 50px; height: 40px; margin: 0px;">
-<img align="left" height="32" width="32" src="https://camo.githubusercontent.com/e1a0140c86a2e3777df78d24251f7c52bafe6779f988ea3cc213b54c502e2b63/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f78616d70702e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" style="max-width: 100%;">
-<h3 align="left">Libraries and Frameworks:</h3>
-<h3 align="left">Databases:</h3>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
+<h3 dir="auto"><a id="user-content-tools" class="anchor" aria-hidden="true" href="#tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tools:</h3>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e25e3749060b9d7d07edae288b1dc455efd0357f2b1de0282b255059d69a49c6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f70687073746f726d2e737667"><img align="left" height="32" width="32" src="https://camo.githubusercontent.com/e25e3749060b9d7d07edae288b1dc455efd0357f2b1de0282b255059d69a49c6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f70687073746f726d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e1a0140c86a2e3777df78d24251f7c52bafe6779f988ea3cc213b54c502e2b63/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f78616d70702e737667"><img align="left" height="32" width="32" src="https://camo.githubusercontent.com/e1a0140c86a2e3777df78d24251f7c52bafe6779f988ea3cc213b54c502e2b63/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f78616d70702e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ebe594a9d39d111f1c69787b7672acdd1762831298fb62d580787266f465ccb9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f6c617261676f6e2e737667"><img align="left" height="32" width="32" src="https://camo.githubusercontent.com/ebe594a9d39d111f1c69787b7672acdd1762831298fb62d580787266f465ccb9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f6c617261676f6e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" style="max-width: 100%;"></a></p>
+<br>
+<h3 dir="auto"><a id="user-content-libraries-and-frameworks" class="anchor" aria-hidden="true" href="#libraries-and-frameworks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Libraries and Frameworks:</h3>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8b5960a67fbf98d6876b93fe6206a7a31ff6ead3465ab639d6171d3a5d00cfa0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f6c61726176656c2e737667"><img align="left" height="32" width="32" src="https://camo.githubusercontent.com/8b5960a67fbf98d6876b93fe6206a7a31ff6ead3465ab639d6171d3a5d00cfa0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f6c61726176656c2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" style="max-width: 100%;"></a></p>
+<br>
+<h3 dir="auto"><a id="user-content-databases" class="anchor" aria-hidden="true" href="#databases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Databases:</h3>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7de394d17b61c6077dd8dbe81944f9ab0e8fee8f1e95c899154faecb03b7b4ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f6d7973716c2e737667"><img align="left" height="32" width="32" src="https://camo.githubusercontent.com/7de394d17b61c6077dd8dbe81944f9ab0e8fee8f1e95c899154faecb03b7b4ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f6d7973716c2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" style="max-width: 100%;"></a></p>
+<br>
+<br>
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phucnguyen228&show_icons=true&locale=en&layout=compact" alt="phucnguyen228" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phucnguyen228&show_icons=true&locale=en" alt="phucnguyen228" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phucnguyen228&label=Profile%20views&color=0e75b6&style=flat" alt="phucnguyen228" /> </p>
