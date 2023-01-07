@@ -29,8 +29,6 @@
 <br>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phucnguyen228&show_icons=true&locale=en&layout=compact" alt="phucnguyen228" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phucnguyen228&show_icons=true&locale=en" alt="phucnguyen228" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phucnguyen228&show_icons=true&locale=en" alt="phucnguyen228" style="max-width: 100%;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phucnguyen228&label=Profile%20views&color=0e75b6&style=flat" alt="phucnguyen228" /> </p>
