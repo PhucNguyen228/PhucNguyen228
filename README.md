@@ -19,6 +19,10 @@
 
 <h3 align="left">Tools:</h3>
 <img align="left" height="32" width="32" src="https://camo.githubusercontent.com/ebe594a9d39d111f1c69787b7672acdd1762831298fb62d580787266f465ccb9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f6c617261676f6e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" style="max-width: 100%;">
+<img align="left" height="32" width="32" src="https://camo.githubusercontent.com/e1a0140c86a2e3777df78d24251f7c52bafe6779f988ea3cc213b54c502e2b63/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340342e382e302f69636f6e732f78616d70702e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" style="max-width: 100%;">
+<h3 align="left">Libraries and Frameworks:</h3>
+<h3 align="left">Databases:</h3>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
