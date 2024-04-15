@@ -8,6 +8,15 @@
 
 - ⚡ Fun fact: I get along very well with everyone
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,java,php" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mysql,html,css,vscode,git" />
+</div>
+  <br/><br/><br/>
+
 <hr/>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
